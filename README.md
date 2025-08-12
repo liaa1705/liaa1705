@@ -1,4 +1,13 @@
-## Hi there 👋
+<h1 align="center">Haii 🌸, Aku Nilam Aulia 💙</h1>
+<h3 align="center">💻 Frontend Developer | 🎨 UI/UX Enthusiast</h3>
+
+---
+
+### 🩵 Tentang Aku
+- 🌱 Lagi belajar **pemograman web dan coding**
+- 💌 Suka bikin desain web lucu-lucu
+- 🐾 Pecinta kucing dan seblak☕
+- ✨ Motto hidup: *"Dancing barefoot where the stars whisper."* 🌊🏰
 
 <!--
 **liaa1705/liaa1705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

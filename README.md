@@ -2,6 +2,13 @@
 <h3 align="center">💻 Frontend Developer | 🎨 UI/UX Enthusiast</h3>
 
 ---
+### 🔹 Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/HTML5-0A74DA?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1E90FF?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-4682B4?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-00BFFF?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Blue_ribbon.svg/512px-Blue_ribbon.svg.png" width="80" />

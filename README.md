@@ -1,9 +1,9 @@
-<h1 align="center">Haii 🌸 haayyii>< 💙</h1>
+<h1 align="center"> Hayiii>< 🌸💙</h1>
 <h3 align="center">💻 Frontend Developer | 🎨 UI/UX Enthusiast</h3>
 
 ---
 
-### 🩵 Aout Me
+### 🩵 MEEE
 - 🌱 **pemograman web dan coding**
 - 💌 Él llegó conmigo y conmigo se va
 - 🐾 i love kusyink☕

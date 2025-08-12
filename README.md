@@ -1,4 +1,4 @@
-<h1 align="center">Haii 🌸, Halllowww>< 💙</h1>
+<h1 align="center">Haii 🌸 haayyii>< 💙</h1>
 <h3 align="center">💻 Frontend Developer | 🎨 UI/UX Enthusiast</h3>
 
 ---

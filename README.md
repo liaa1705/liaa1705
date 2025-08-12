@@ -20,7 +20,11 @@
 - 💌 Él llegó conmigo y conmigo se va
 - 🐾 i love kusyink☕
 - ✨ *"Dancing barefoot where the stars whisper."* 🌊🏰💙 
-
+### 📫 Reach Me
+<p>
+  <a href="https://instagram.com/username" target="_blank"><img src="https://img.shields.io/badge/Instagram-1E90FF?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:email@example.com"><img src="https://img.shields.io/badge/Gmail-00BFFF?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 <!--
 **liaa1705/liaa1705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

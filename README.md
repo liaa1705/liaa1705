@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="./banner.png" />
+</div>
+
+
+
 <h1 align="center"> Hayiii>< 🌸💙</h1>
 <h3 align="center">💻 Frontend Developer | 🎨 UI/UX Enthusiast</h3>
 
@@ -9,7 +15,7 @@
 
 
 ### 🩵 MEEE
-- 🌱 **pemograman web dan coding**
+- 🌱 **Desaian UI**
 - 💌 Él llegó conmigo y conmigo se va
 - 🐾 i love kusyink☕
 - ✨ *"Dancing barefoot where the stars whisper."*🏰

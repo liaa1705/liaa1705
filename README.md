@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="https://i.pinimg.com/736x/42/6d/aa/426daad71ae48ed5851a52dd1fdcdf72.jpg" />
-</div>
-
-
-
 <h1 align="center"> Hayiii>< 🌸💙</h1>
 <h3 align="center">💻 Frontend Developer | 🎨 UI/UX Enthusiast</h3>
 
@@ -24,6 +18,7 @@
 </a>
 
 <div align="center">
+  <img src="https://i.pinimg.com/736x/42/6d/aa/426daad71ae48ed5851a52dd1fdcdf72.jpg" />
 
 # 🩵 Hi, I'm Liaa
 Soft Blue UI Developer ☁️✨

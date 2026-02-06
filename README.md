@@ -18,8 +18,11 @@
 </a>
 
 <div align="center">
-  <img src="https://i.pinimg.com/736x/42/6d/aa/426daad71ae48ed5851a52dd1fdcdf72.jpg" />
-
+   <img 
+    src="https://i.pinimg.com/1200x/25/0b/78/250b781ef472ec61fce9803041c1bb09.jpg"
+    width="90"
+    style="border-radius: 50%;"
+  />
 # 🩵 Hi, I'm Liaa
 Soft Blue UI Developer ☁️✨
 

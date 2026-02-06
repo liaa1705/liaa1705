@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.png" />
+  <img src="https://i.pinimg.com/736x/42/6d/aa/426daad71ae48ed5851a52dd1fdcdf72.jpg" />
 </div>
 
 
@@ -8,11 +8,6 @@
 <h3 align="center">💻 Frontend Developer | 🎨 UI/UX Enthusiast</h3>
 
 ---
-
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Blue_ribbon.svg/512px-Blue_ribbon.svg.png" width="80" />
-</p>
-
 
 ### 🩵 MEEE
 - 🌱 **Desaian UI**

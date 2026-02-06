@@ -22,14 +22,29 @@
   <img src="https://img.shields.io/badge/TikTok-00BFFF?style=for-the-badge&logo=tiktok&logoColor=white"/>
 </a>
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💙 Hi, I'm Anthea ☁️
+Cute Front-End Developer 🫧
+
+૮ ˶ᵔ ᵕ ᵔ˶ ა  
+I love building soft & clean UI
+
+</div>
+
+---
+
+### 🐳 Tech Stack
+💙 HTML • CSS • JavaScript  
+☁️ Vue 3 • Bootstrap  
+🫧 Git • GitHub
+
+---
+
+### ☁️ GitHub Stats
+
+
+![Vue](https://img.shields.io/badge/Vue-A7C7E7?style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5F7ADB?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-BEE7E8?style=for-the-badge)
+

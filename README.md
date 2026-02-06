@@ -24,11 +24,11 @@
 
 <div align="center">
 
-# 💙 Hi, I'm Anthea ☁️
-Cute Front-End Developer 🫧
+# 🩵 Hi, I'm Liaa
+Soft Blue UI Developer ☁️✨
 
 ૮ ˶ᵔ ᵕ ᵔ˶ ა  
-I love building soft & clean UI
+I love building clean & cute blue interfaces
 
 </div>
 
@@ -37,14 +37,15 @@ I love building soft & clean UI
 ### 🐳 Tech Stack
 💙 HTML • CSS • JavaScript  
 ☁️ Vue 3 • Bootstrap  
-🫧 Git • GitHub
+🌊 Git • GitHub
 
 ---
 
-### ☁️ GitHub Stats
+"editor.minimap.enabled": false,
+"editor.fontSize": 14,
+"editor.cursorBlinking": "smooth",
+"editor.cursorSmoothCaretAnimation": "on",
+"workbench.colorTheme": "Catppuccin Latte"
 
 
-![Vue](https://img.shields.io/badge/Vue-A7C7E7?style=for-the-badge)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-5F7ADB?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-BEE7E8?style=for-the-badge)
-
+"editor.fontLigatures": true

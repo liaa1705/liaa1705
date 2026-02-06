@@ -41,11 +41,15 @@ I love building clean & cute blue interfaces
 
 ---
 
-"editor.minimap.enabled": false,
-"editor.fontSize": 14,
-"editor.cursorBlinking": "smooth",
-"editor.cursorSmoothCaretAnimation": "on",
-"workbench.colorTheme": "Catppuccin Latte"
+### 🧁 VS Code Aesthetic Settings
 
+```json
+{
+  "editor.minimap.enabled": false,
+  "editor.fontSize": 14,
+  "editor.cursorBlinking": "smooth",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "workbench.colorTheme": "Catppuccin Latte",
+  "editor.fontLigatures": true
+}
 
-"editor.fontLigatures": true

@@ -12,7 +12,9 @@
 - 🌱 **pemograman web dan coding**
 - 💌 Él llegó conmigo y conmigo se va
 - 🐾 i love kusyink☕
-- ✨ *"Dancing barefoot where the stars whisper."* 🌊🏰💙 
+- ✨ *"Dancing barefoot where the stars whisper."*🏰
+- 🌊 Neteyam vibes — calm, kind, learning with heart 💙
+- 🌌 learning to code in a quiet galaxy 🪐⭐ 
 <a href="https://www.instagram.com/blueshhyy?igsh=MXZlbGl6bmJ0MXV4ZQ==" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-1E90FF?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>

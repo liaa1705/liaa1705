@@ -1,5 +1,5 @@
 <h1 align="center"> Ciao>< </h1>
-<h3 align="center">💻 Frontend Developer | 🎨 UI/UX Enthusiast</h3>
+<h3 align="center">💻 Frontend Developer | 🎨 UI</h3>
 
 ---
 

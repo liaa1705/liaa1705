@@ -13,7 +13,7 @@
 <a href="https://www.instagram.com/blueshhyy?igsh=MXZlbGl6bmJ0MXV4ZQ==" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-1E90FF?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-<a href="https://www.tiktok.com/@blueshhyy5?_t=ZS-8yo33MQtkf3&_r=1" target="_blank">
+<a href="https://www.tiktok.com/@blueshhyy_" target="_blank">
   <img src="https://img.shields.io/badge/TikTok-00BFFF?style=for-the-badge&logo=tiktok&logoColor=white"/>
 </a>
 
